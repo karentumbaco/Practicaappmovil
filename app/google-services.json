@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912914471713",
+    "project_id": "practicamovil-ac894",
+    "storage_bucket": "practicamovil-ac894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912914471713:android:1f324616b2122a81e67c60",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuV4a83qNZJCed1kgWCYjpi8VC4Kc7MTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
